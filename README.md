@@ -1,0 +1,1 @@
+A simple "Parent" and "Child" application construct in angular that allows the "Parent" application to embed the "Child" application into an iframe. The Parent subsequently has a HostListener configured to receive messages from the "Child" Application.
